@@ -1,6 +1,11 @@
-# Free Blogger Theme
-W3.CSS responsive technology, Search Engine Optimized (SEO), Social Media Optimized (SMO), AMP Theme for Bloggers
-
+# Abanoub Blogger Theme
+UX-focused blogger theme. To me, UX means responsive adaptive optimized user experience. This UX focus can be simplified into these concepts:
+- easy to use navigation menu
+- speed loading time
+- search engine optimized webpages
+- responsive website layout
+- social media optimized
+- easy to configure / edit settings
 
 ## Features of This Blogger Theme ( Blogger Template )
 ### -> W3.CSS responsive CSS-powered technology ( created by https://www.w3schools.com/w3css/ )
