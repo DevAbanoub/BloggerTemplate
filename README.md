@@ -18,6 +18,9 @@ Need a WordPress theme, check out [ultimate_wp_theme](https://github.com/abanoub
 - Ad-places ( ready to use AdSense places )
 - Good comment section to let visitors love to comment. ( that's improve the Google rank )
 
+## Blogs Which Use The Ultimate Blogger Theme
+-- Feel free to send **pull requests** to add a blog which uses this theme.
+
 ## License
 This blogger theme can be applied to blogger / blogspot.com blogs with or without custom domain. You have the freedom to use this blogger theme as you want BUT PLEASE KEEP THE COPYRIGHT NOTICE.
 
