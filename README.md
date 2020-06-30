@@ -1,4 +1,4 @@
-# Abanoub Theme
+# Ultimate Blogger Theme
 UX-focused theme for Blogger. To me, UX means responsive adaptive optimized user experience. This UX focus can be simplified into these concepts:
 - easy to use navigation menu
 - speed loading time
@@ -6,6 +6,7 @@ UX-focused theme for Blogger. To me, UX means responsive adaptive optimized user
 - responsive website layout
 - social media optimized
 - easy to configure / edit settings
+You can see all the development on realtime on [ubloggertheme.blogspot.com](https://ubloggertheme.blogspot.com/)
 
 Need a WordPress theme, check out [ultimate_wp_theme](https://github.com/abanoub-hanna/ultimate_wp_theme).
 
