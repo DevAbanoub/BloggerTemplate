@@ -27,6 +27,10 @@ This blogger theme can be applied to blogger / blogspot.com blogs with or withou
 
 If you applied this theme to your blog, tell me on [Facebook](https://m.me/AbanoubHannaDotCom). So I add your blog name/link on the LIST OF BLOGS USED THE THEME so you can get a DOFOLLOW BACKLINK _for free_.
 
+## Dev Log of the Theme
+- `loading="lazy"` for `<img>` and `<iframe>` : almost all modern browsers support it ([can i use](https://caniuse.com/#feat=loading-lazy-attr)).
+- use **WebP** image to speed up the page load time : all modern browsers suppor it ([can i use](https://caniuse.com/#feat=webp)).
+
 ## Suggest an Improvement:
 This blogger theme is always under development and improvement. Feel free to send **pull requests** and / or write **issues**.
 
